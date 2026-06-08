@@ -1,1 +1,1 @@
-"# Daniel-GitHubActions-Ec2" 
+"# GitHubActions-Ec2-2" 
